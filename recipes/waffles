@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Recipe Site</title>
+<body>
+    <h1>Ingredients</h1>
+    <p>
+      <ul>
+        <li>1 cup butter milk</li>
+        <li>1 egg</li>
+        <li>1 tablespoon oil</li>
+        <li>1 cup flour</li>
+        <li>1 tablespoon sugar</li>
+        <li>1 teaspoon baking powder</li>
+        <li>1/2 teaspoon baking soda</li>
+        <li>1/2 teaspoon salt</li>
+      </ul>
+    </p>
+    <h1>Instructions</h1>
+      <ol>
+        <li>Mix ingredients</li>
+</body>
+
+</html>
